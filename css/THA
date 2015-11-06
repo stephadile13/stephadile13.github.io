@@ -1,0 +1,16 @@
+body{
+	background:white
+	
+}
+
+a{
+	color: black
+	font: sans-serif;
+	size
+	text decoration: none;
+	
+}
+
+a hover{
+	color: orange;
+}

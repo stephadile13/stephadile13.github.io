@@ -1,0 +1,58 @@
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+	<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<meta name="keywords" content="TannerHecht, Tanner, Hecht, Jim Tanner, James Tanner, David Hecht, Tanner Leddy Maytum Stacy, TLMS, Tanner and VanDine, Hechtwerke, LEED AP, LEED certification, LEED Platinum, architecture, architects, design , contemporary, modern, sustainability, sustainable, green, green design, entitlements, entitlement services, high density, high performance design, value, urban infill, adaptive reuse, repositioning, distressed properties, commercial, interiors, interior design, building technology, innovation, award winning, AIA awards, Urban Land Institute award, PCBC award, historic preservation awards, seismic upgrades, rezoning, site development, approvals, building permits, Coastal Commission, FAA, Redevelopment, Planning Commissions, City Councils, community groups, design review boards, tenant improvements, planning, programming, test-fits, feasibility, public, private, institutional, housing, hospitality, mixed-use, residential, civic, historic, historic rehab, affordable housing, workforce housing, SRO’s, museums, high-rise, parking, retail, developer, development, office, university, college, dormitory, campus housing, graduate housing, student housing, San Francisco, San Diego, California, Orange County, Newport Beach">
+	<meta name="description" content="TannerHecht Architecture provides feasibility, sustainability, entitlement, high density urban infill, adaptive reuse &amp; repositioning, and commercial design services.">
+	<meta name="viewport" content="width=260">
+	<link rel="shortcut icon" type="image/ico" href="favicon.ico">
+	<link rel="stylesheet" href="css/reset.css" type="text/css" media="screen">
+	<script language="JavaScript" src="js/swfobject.js" type="text/javascript">
+	</script>
+		<title>Tanner Hecht Architecture</title>
+		<style type="text/css">
+			/*<![CDATA[*/
+			<!--
+			/* hide from ie mac \*/
+			/* hide from ie mac \*/
+				html {
+					height: 100%;
+					overflow: hidden;
+					}
+					#flashcontent{
+					height: 100%;
+					}
+					/* end hide */
+
+					body {
+					height: 100%;
+				margin: 0;
+				padding: 0;
+				background-color: #262627;
+				font-family:Verdana;
+				font-size:10px;
+				color:#ffffff;
+				line-height:1.3em;
+				}
+				a{
+				color:#FFFFFF;
+				}
+				.noFlash{
+				padding:15px;
+				}
+
+					-->
+				/*]]>*/
+			</style>
+		</head>
+	<body>
+<div id="flashcontent"><embed type="application/x-shockwave-flash" src="TannerHecht.swf" width="100%" height="100%" style="undefined" id="Tanner Hecht Architecture" name="Tanner Hecht Architecture" bgcolor="#262627" quality="high" scale="noscale"></div>
+<script type="text/javascript">
+	// <![CDATA[
+	var so = new SWFObject("TannerHecht.swf", "Tanner Hecht Architecture", "100%", "100%", "8", "#262627");
+	so.addParam("scale", "noscale");
+	so.write("flashcontent");
+	
+	// ]]>
+</script>
+
+</body></html>

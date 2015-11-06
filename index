@@ -1,0 +1,54 @@
+<html>
+	<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<meta name="keywords" content="TannerHecht, Tanner, Hecht, Jim Tanner, James Tanner, David Hecht, Tanner Leddy Maytum Stacy, TLMS, Tanner and VanDine, Hechtwerke, LEED AP, LEED certification, LEED Platinum, architecture, architects, design, contemporary, modern, sustainability, sustainable, green, green design, entitlements, entitlement services, high density, high performance design, value, urban infill, adaptive reuse, repositioning, distressed properties, commercial, interiors, interior design, building technology, innovation, award winning, AIA awards, Urban Land Institute award, PCBC award, historic preservation awards, seismic upgrades, rezoning, site development, approvals, building permits, Coastal Commission, FAA, Redevelopment, Planning Commissions, City Councils, community groups, design review boards, tenant improvements, planning, programming, test-fits, feasibility, public, private, institutional, housing, hospitality, mixed-use, residential, civic, historic, historic rehab, affordable housing, workforce housing, SRO’s, museums, high-rise, parking, retail, developer, development, office, university, college, dormitory, campus housing, graduate housing, student housing, San Francisco, San Diego, California, Orange County, Newport Beach">
+	<meta name="description" content="TannerHecht Architecture provides feasibility, sustainability, high density urban infill, adaptive reuse &amp; repositioning, and commercial design services.">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	</head>
+	<script language="JavaScript" var num=1
+		img1 = new Image ()
+		img1.src = "img1"
+		img2 = new Image ()
+		img2.src = "img2"
+		img3 = new Image ()
+		img3.src = "img3"
+		img4 = new Image ()
+		img4.src = "img4" 
+
+		text1 = "Text for Picture One"
+		text2 = "Text for Picture Two"
+		text3 = "Text for Picture Three"
+		text4 = "Text for Picture Four"
+
+		function slideshowUp()
+		{
+		num=num+1
+		if (num==5)
+		{num=1}
+		desktop.website.src=eval("img"+num+".src")
+		desktop.website.architecture.value=eval("text"+num)
+		}
+
+		function slideshowBack()
+		{
+		num=num-1
+		if (num==0)
+		{num=4}
+		desktop.website.src=eval("img"+num+".src")
+		desktop.website.architecture.value=eval("text"+num)
+		}
+
+	</script>
+		<title>Tanner Hecht Architecture</title>
+			<body><IMG SRC="img1" NAME="Website" BORDER=0 HEIGHT="100" WIDTH="100">
+			<FORM NAME="THA">
+			<INPUT TYPE="text" WIDTH="100"
+			NAME="Architecture" VALUE="Text For Picture One">
+			</FORM NAME>
+
+	<A HREF="JavaScript:slideshowBack()"> Back</A>
+
+	<A HREF="JavaScript:slideshowUp()"> Next</A>
+	</body>
+
+</html>
